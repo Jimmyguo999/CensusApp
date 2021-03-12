@@ -25,7 +25,7 @@
 # textOutput	      text
 # uiOutput	        raw HTML
 # verbatimTextOutput	text
-
+library(shiny)
 library(maps)
 library(mapproj)
 source("helpers.R")
